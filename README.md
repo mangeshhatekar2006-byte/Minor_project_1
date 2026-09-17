@@ -1,9 +1,9 @@
 # Minor_project_1
-# 🧬 GroupDNA — WhatsApp Group Chat Analyzer
+# WhatsApp Group Chat Analyzer
 
 > **Your WhatsApp group chat, decoded.**
 
-GroupDNA is a Python-based WhatsApp chat analytics project that analyzes an exported WhatsApp `.txt` chat file and generates a detailed, terminal-style report about group activity, messaging patterns, frequently used words, response behavior, silent streaks, and personality archetypes.
+This is a Python-based WhatsApp chat analytics project that analyzes an exported WhatsApp `.txt` chat file and generates a detailed, terminal-style report about group activity, messaging patterns, frequently used words, response behavior, silent streaks, and personality archetypes.
 
 The project is developed as a **Minor Project using Python and NumPy**, with a focus on implementing data analysis using fundamental programming concepts rather than high-level data-analysis libraries.
 
@@ -468,4 +468,4 @@ If you find this project useful or interesting:
 
 **Built with 🐍 Python + 🔢 NumPy**
 
-> **GroupDNA — Decode the group. Discover the patterns.**
+> ** Decode the group. Discover the patterns.**
